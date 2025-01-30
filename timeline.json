@@ -1,0 +1,32 @@
+{
+  "timeline": {
+    "headline": "Mi Línea de Tiempo",
+    "type": "default",
+    "text": "Esta es una breve descripción de los eventos en la línea de tiempo.",
+    "startDate": "2020,1,1",
+    "endDate": "2025,1,1",
+    "date": [
+      {
+        "startDate": "2022,5,10",
+        "endDate": "2022,5,12",
+        "headline": "Evento importante",
+        "text": "Descripción del evento importante.",
+        "asset": {
+          "media": "https://example.com/imagen.jpg",
+          "credit": "Autor de la imagen",
+          "caption": "Descripción de la imagen"
+        }
+      },
+      {
+        "startDate": "2023,8,15",
+        "headline": "Otro evento relevante",
+        "text": "Detalles sobre este evento importante.",
+        "asset": {
+          "media": "https://example.com/otra_imagen.jpg",
+          "credit": "Otro autor",
+          "caption": "Otra imagen"
+        }
+      }
+    ]
+  }
+}
