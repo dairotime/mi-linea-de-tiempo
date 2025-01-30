@@ -12,7 +12,7 @@
         "headline": "Evento importante",
         "text": "Descripción del evento importante.",
         "asset": {
-          "media": "https://example.com/imagen.jpg",
+          "media": https://dairotime.github.io/mi-linea-de-tiempo/,
           "credit": "Autor de la imagen",
           "caption": "Descripción de la imagen"
         }
@@ -22,7 +22,7 @@
         "headline": "Otro evento relevante",
         "text": "Detalles sobre este evento importante.",
         "asset": {
-          "media": "https://example.com/otra_imagen.jpg",
+          "media": https://dairotime.github.io/mi-linea-de-tiempo/,
           "credit": "Otro autor",
           "caption": "Otra imagen"
         }
